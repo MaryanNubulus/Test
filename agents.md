@@ -80,7 +80,7 @@
 2. **Flujo de Código**: Cambios por Repository, revisados mediante Pull Requests antes de fusión.
 3. **Automatización CI/CD**: Pipeline de pasos automatizados para construir, probar y desplegar.
 
-## 💻 AGENTS.MD: Guía de Desarrollo Backend (C# .NET API REST - Feature Based)
+## Guía de Desarrollo Backend (C# .NET API REST - Feature Based)
 
 ### I. Arquitectura de Proyecto: Basada en Features
 
@@ -186,3 +186,4 @@ Las prácticas de calidad deben integrarse para soportar la **velocidad de entre
 - **Control de Versiones**: Usar **Branches** para trabajar de manera aislada y **Commits** con mensajes descriptivos.
 - **Pull Requests (PR)**: Toda fusión de código debe ser revisada (PR) antes de integrarse en la rama principal.
 - **Pipeline**: Automatización de construcción, pruebas y despliegue. El **CI/CD** implica la integración continua de cambios y su despliegue automático en producción, esencial para la agilidad.
+
